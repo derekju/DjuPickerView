@@ -1,11 +1,11 @@
 Description
 =============
 
-DjuPickerView is a custom picker view built with a standard UITableView that allows for complete control over the look and feel.
+DjuPickerView is a custom picker view built with a standard UITableView that allows for basic built in customization over the look and feel. I started this project as the default UIPickerView was too limited in what could be changed as I was trying to achieve a flat design for a picker view.
 
 ![Preview image](http://dju.moogli.net/djuPickerView2.png)
 
-A sample project is included that has a single instance of the picker view.
+A sample project is included that has a single instance of the picker view. Extension of the picker view is relatively simple and can be used to further customize the picker view to fit any UI design.
 
 Usage
 =============
