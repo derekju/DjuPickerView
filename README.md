@@ -3,7 +3,7 @@ Description
 
 DjuPickerView is a custom picker view built with a standard UITableView that allows for complete control over the look and feel.
 
-A sample project is included that has a single instance of the DjuPickerView.
+A sample project is included that has a single instance of the picker view.
 
 Usage
 =============
@@ -14,3 +14,7 @@ Instantiate the DjuPickerView like you would a regular picker view. You will nee
     djuPickerView.delegate = self;
     djuPickerView.dataSource = self;
     [self.view addSubview:djuPickerView];
+
+Usage
+=============
+Contact me at derek(dot)ju(at)gmail.com for any comments or criticisms.
